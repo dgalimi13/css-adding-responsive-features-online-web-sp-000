@@ -44,13 +44,11 @@ col-1,.col-2,.col-3 {
   float: none;
   .border-right:0;
 }
-
+#details div{
+  height:auto;
+}
 }  
 
 
 
 
-
-#details div{
-  height:auto;
-}
